@@ -1,6 +1,6 @@
 # Hi there, I'm Weilu 👋
 
-🎮 **Unity Game Developer**
+🎮 **Game Developer**
 
 
 ## 👤 About Me
