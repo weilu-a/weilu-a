@@ -1,4 +1,56 @@
-## Hi there 👋
+# Hi there, I'm Weilu 👋
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weilu-a&layout=compact&hide=html,css&theme=radical" style="width: 400px;" alt="Top Languages" />
+
+🎮 **Unity Game Developer**
+
+
+
+## 👤 About Me
+
+- 🎯 Focus on **Unity game development** and gameplay systems
+    
+- 🧠 Interested in **LLM / Machine Learning** and their application in games
+    
+- ⚙️ Experience with frontend and general-purpose programming
+    
+- 📚 Computer Science student
+    
+
+
+
+## 🔧 Skills
+
+
+![](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)  
+![](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+
+
+
+![](https://img.shields.io/badge/-LLM-FF6F00?style=flat-square&logo=openai&logoColor=white)  
+![](https://img.shields.io/badge/-Machine%20Learning-0A66C2?style=flat-square&logo=scikitlearn&logoColor=white)
+
+
+![](https://img.shields.io/badge/-Vue-42b883?style=flat-square&logo=vue.js&logoColor=white)  
+![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+
+
+![](https://img.shields.io/badge/-C++-00599c?style=flat-square&logo=cplusplus&logoColor=white)  
+![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white)  
+![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
+![](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+## 📌 Current Focus
+
+- Building **gameplay systems in Unity**
+    
+- Exploring **AI-driven game mechanics**
+    
+- Improving **engineering and system design skills**
+    
 
 <!--
 **weilu-a/weilu-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
